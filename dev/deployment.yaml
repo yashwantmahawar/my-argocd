@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: yashwantmahawar/k8s-color-app:main-c5bac02
+        image: yashwantmahawar/k8s-color-app:main-71d1767
         ports:
         - containerPort: 8080
 
